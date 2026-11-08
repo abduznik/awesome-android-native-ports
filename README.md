@@ -6,7 +6,7 @@ A native Android port runs a game's own code, or a faithful reimplementation of 
 
 Almost every project below follows the same rule: **no copyrighted game data is included.** You bring your own copy of the game (a disc image, a ROM or the PC game files) and the app imports or converts it on the device.
 
-The list was last checked on 2026-10-21. It currently holds 210 ports.
+The list was last checked on 2026-10-21. It currently holds 211 ports.
 
 > Many of these projects are young. Some are experimental, some were built with AI assistance, and a few only run on certain GPUs or handhelds. Read each project's README and status notes before you rely on it.
 
@@ -203,6 +203,7 @@ Xbox 360 recompilations that ship Android builds, mostly made with the [ReXGlue 
 | [Forza Horizon](https://github.com/arcanite24/pinyon-shift) | Playable Pinyon Shift preview for desktop and Steam Deck with an Android alpha for Snapdragon handhelds. | [arcanite24](https://github.com/arcanite24) |
 | [Forza Horizon 2](https://github.com/Gabrick75/fh2-recompiled) | Unofficial static recompilation for Android, with APK releases. | [Gabrick75](https://github.com/Gabrick75) |
 | [Lost Odyssey](https://github.com/freefrank/LostOdysseyRecomp) | Experimental native port with Android arm64 APKs in releases; no game assets included. | [freefrank](https://github.com/freefrank) |
+| [Lost Odyssey (Steprant Android)](https://github.com/Steprant/LostOdysseyRecomp-Android) | Android ARM64 fork of Lost Odyssey Recomp with SGSR2 upscaling, frame-pacing and audio fixes, TV/HDMI support and APK releases. | [Steprant](https://github.com/Steprant) |
 | [Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst](https://github.com/Masterllgod/naruto-storm-3-full-burst-port-nativo) | Static recompilation for Android arm64 and Windows with APK releases. | [Masterllgod](https://github.com/Masterllgod) |
 | [Naruto Shippuden: Ultimate Ninja Storm Generations](https://github.com/Masterllgod/naruto-storm-generations-port-nativo) | Static recompilation running natively on Android arm64 and Windows with no CPU emulator. | [Masterllgod](https://github.com/Masterllgod) |
 | [Naruto: Rise of a Ninja](https://github.com/Masterllgod/naruto-rise-of-a-ninja-port-nativo) | Native Android arm64 port with Vulkan rendering and 360p to 4K output. | [Masterllgod](https://github.com/Masterllgod) |
